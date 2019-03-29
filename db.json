@@ -1,0 +1,43 @@
+{
+  "yoga":
+      {
+        "name": "YOGA",
+       "image":"./assets/images/yoga.webp",
+        "about": " Our yoga instructors infuse every class with an array of breathing techniques, a variety of postures and meditation techniques. This helps in improving self-confidence and balance while gaining a stronger body in the process. No prior experience is required for these classes. Our qualified yoga instructors conduct classes with the motive of aligning your breath with your movement.After each class, you will feel relaxed and would appreciate living in the present.",
+        "benefits": " Physical, Mental & Emotional Well Being | Strength | Endurance | Flexibility | Stress Management"     
+      },
+      "sandc":  {
+        "name": "S & C",
+        "image":"./assets/images/snc.webp",
+        "about": " Strength & Conditioning is a combination of compound movements and high-intensity interval training that provides lasting fitness and enhanced endurance. Once you start training, every step will throw up a new surprise- of what your body is capable of. It’s a myth that S&C is meant only for professional athletes. The training actually involves systematic programs designed for people of all ages. The routines help you get functionally fit and improve your strength, speed, power, and athletic performance.",
+        "benefits": " Strength | Endurance | Mobility | Stamina"   
+           },
+        "boxing":  { "name": "BOXING",
+          "image":"./assets/images/boxing.webp",
+        "about": " A high cardio form of martial arts that not only enhances your strength, cardiovascular and respiratory functioning, but also improves your balance, coordination and reflexes. Our highly qualified boxing instructors ensure that members learn new techniques in a structured and safe manner. This class is designed to help you hone self-defence skills and release your stress by practicing powerful punches and knock-out kicks.",
+                "benefits": " Body Coordination | Stamina | Strength | Stress Management"    
+                  },
+        "hrx": {
+        "name": "HRX",
+        "image":"./assets/images/hrx.webp",
+        "about": " HRX workout is a strength & conditioning program designed to help people become a better version of themselves through a combination of various movement modules. The workout is completely scalable and does not restrict people from different fitness back grounds to be a part of it. The module makes sure that the right muscles are engaged during the workout and everyone is working at their optimum relative intensity level. The workout is a combination of Primal movements, Zero momentum rep, compound movements & conditioning routines designed to challenge the human body and accelerate growth. ",    
+        "benefits": " Core Strength | Agility | Full body strength | Stamina | Muscle Gain | Injury Recovery"      },
+
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
